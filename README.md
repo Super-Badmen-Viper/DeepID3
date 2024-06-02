@@ -1,4 +1,4 @@
-# AI-Enhanced ID3v2.4 Specification: X-ID3(Xiang-ID3)
+# AI-Enhanced ID3v2.4 Specification: D-ID3(Deep-ID3)
 ﻿
 ## 1. Introduction
 This document outlines the AI-Enhanced ID3v2.4 Specification, an extension to the existing ID3v2.4 standard to incorporate artificial intelligence-derived metadata for audio files.
